@@ -1,0 +1,31 @@
+Name:
+ShortExample
+
+Game slots:
+TU, 11:00, 3, 2
+
+
+Practice slots:
+
+
+Games:
+CMSA U17T1 DIV 01
+
+
+Practices:
+
+
+Not compatible:
+
+
+Unwanted:
+
+
+Preferences:
+
+
+
+Pair:
+
+
+Partial assignments:

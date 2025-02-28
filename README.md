@@ -3,7 +3,8 @@ This project was motivated by finding a way to optimize the time it takes to sol
 some form of an AND tree, I decided to go with the Genetic Algorithm Route, in hopes that this would reduce the ammount of search time for this problem,
 while still achieving optimal results. In this README, I will go over each aspect of the Genetic Algorithm's functionality.
 
-For further information on the desicions and specifics of this project, please read **my project proposal paper**.
+For further information on the desicions and specifics of this project, please read [ my proposal paper](path/to/your/file.pdf)
+
 ## 1. The population and genomes
 The genomes, in this project, were tuples of (games/practices) assigned to (timeslots). We assign Games/Practices to a timeslot. An individual 
 is a complete schedule, of which passes all hard consrtaints (every game/practice is assignd to a timeslot). The population is a set of
